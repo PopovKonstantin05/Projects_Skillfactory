@@ -1243,7 +1243,7 @@ button[class^="footer__main_links-button"]{
         grid-column: 2;
         grid-row: 2;
         display: grid;
-        grid-template-columns: 1fr;
+        grid-template-columns: 374px;
         grid-template-rows: 56px 512px 24px 481px 24px 292px 24px 248px 127px;
     }
     .main__additional, .main__part4-ul2, .additional__img, .main__aside-img, .main__path-item:last-child{
