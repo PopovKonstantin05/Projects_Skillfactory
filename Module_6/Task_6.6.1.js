@@ -7,6 +7,7 @@ for(let i=0; i<=userWordEnd.length-1; i++){
     sum++;
   }
 }
+
 if(sum === userWordEnd.length){
   console.log(`Слово ${userWord} является палиндромом`);
 } else {

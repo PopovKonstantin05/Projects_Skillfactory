@@ -5,4 +5,5 @@ const array = [];
 for(let i=0; i<=userNumber; i++){
   array.push(i);
 }
+
 console.log(array);

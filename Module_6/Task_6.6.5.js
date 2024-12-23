@@ -4,7 +4,6 @@ const obj = {
     arr: [1, 2, 3, 4, 5],
     tom: 'there'
 };
-
 const array = [];
 
 for (let i in obj){
